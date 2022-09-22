@@ -1,1 +1,1 @@
-Published in https://rssw2019.github.io/angular/
+Published in https://rssw2019.github.io/my-app/
